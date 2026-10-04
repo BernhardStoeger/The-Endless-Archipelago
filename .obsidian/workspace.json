@@ -39,46 +39,18 @@
             "id": "93a97497a215a757",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Prompts/NPCs/Ideas/Orchester Ship.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Prompts/Factions/The Drowned God's Cult.md",
+                "bFile": "Prompts/Factions/The Drowned God's Cult.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Orchester Ship"
-            }
-          },
-          {
-            "id": "5f23f9c9b2e1a757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/NPCs/Ship/Captain Elias Veyne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Captain Elias Veyne"
-            }
-          },
-          {
-            "id": "b5dcfb456e94b41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Factions/The Drowned God's Cult.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Drowned God's Cult"
+              "icon": "diff",
+              "title": "Diff: The Drowned God's Cult  (Working Tree)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,26 +225,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f23f9c9b2e1a757",
+  "active": "93a97497a215a757",
   "lastOpenFiles": [
     "Prompts/NPCs/Ideas/Orchester Ship.md",
+    "New Text Document.txt",
+    "Factions/The Tideborn Monks.md",
+    "Factions/The Drowned God's Cult.md",
+    "MCP Test.md",
+    "Factions/The Iron Fleet.md",
+    "Factions/The Free Captains.md",
+    "Prompts/NPCs/Ship/Captain Elias Veyne.md",
     "Prompts/0. Super Prompt.md",
     "Prompts/NPCs/Ideas",
-    "Prompts/Factions/The Tideborn Monks.md",
-    "Prompts/Factions/The Iron Fleet.md",
-    "Prompts/Factions/The Pirate King's Red Legion.md",
+    "Factions/The Pirate King's Red Legion.md",
     "Prompts/First Session.md",
     "Prompts/Factions.md",
-    "Prompts/Factions/The Free Captains.md",
-    "Prompts/Factions/The Drowned God's Cult.md",
-    "Prompts/NPCs/Ship/Captain Elias Veyne.md",
     "Prompts/World.md",
-    "Prompts/Factions/Infos/The Code of the Tides.md",
-    "Prompts/Factions/Infos",
+    "Factions/Infos/The Code of the Tides.md",
+    "Factions/Infos",
     "Prompts/NPCs/Untitled.md",
     "Prompts/NPCs/Ship",
     "Prompts/NPCs",
-    "Prompts/Factions",
+    "Factions/Factions",
     "Factions",
     "Welcome.md",
     "Prompts"
