@@ -1,0 +1,2 @@
+In the first session i want to place them in an inn, where they get involved in an fight. After winning, by beating the others up. The leader of the beat up guys comes in. He is way to strong for them. Just as they are beaten a mysterious captains comes in and saves them. He is searching for a crew and just arrived. He will be a DM NPC who is strong but not overpowered but stays at the ship and will not fight. We will have to create a reason why he does so. Also we need a backstory for him
+He has his own ship which from here on is the base for the party. 
