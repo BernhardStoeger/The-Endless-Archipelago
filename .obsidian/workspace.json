@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Factions/Infos/The Code of the Tides.md",
+                "file": "NPCs/Ship/Captain Elias Veyne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Code of the Tides"
-            }
-          },
-          {
-            "id": "93a97497a215a757",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Prompts/Factions/The Drowned God's Cult.md",
-                "bFile": "Prompts/Factions/The Drowned God's Cult.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: The Drowned God's Cult  (Working Tree)"
+              "title": "Captain Elias Veyne"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,27 +211,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93a97497a215a757",
+  "active": "8621a06abfacf6ef",
   "lastOpenFiles": [
-    "Prompts/NPCs/Ideas/Orchester Ship.md",
-    "New Text Document.txt",
-    "Factions/The Tideborn Monks.md",
     "Factions/The Drowned God's Cult.md",
-    "MCP Test.md",
-    "Factions/The Iron Fleet.md",
     "Factions/The Free Captains.md",
-    "Prompts/NPCs/Ship/Captain Elias Veyne.md",
-    "Prompts/0. Super Prompt.md",
-    "Prompts/NPCs/Ideas",
+    "Factions/The Iron Fleet.md",
+    "Factions/The Tideborn Monks.md",
     "Factions/The Pirate King's Red Legion.md",
-    "Prompts/First Session.md",
-    "Prompts/Factions.md",
-    "Prompts/World.md",
     "Factions/Infos/The Code of the Tides.md",
+    "NPCs/Ship/Captain Elias Veyne.md",
+    "Prompts/0. Super Prompt.md",
+    "NPCs/Ideas/Orchester Ship.md",
+    "World",
+    "Sessions",
+    "New Text Document.txt",
+    "MCP Test.md",
+    "NPCs/Ideas",
+    "Sessions/First Session.md",
+    "Prompts/Factions.md",
+    "World/World.md",
     "Factions/Infos",
     "Prompts/NPCs/Untitled.md",
-    "Prompts/NPCs/Ship",
-    "Prompts/NPCs",
+    "NPCs/Ship",
+    "NPCs",
     "Factions/Factions",
     "Factions",
     "Welcome.md",

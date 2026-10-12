@@ -10,3 +10,5 @@
     
 - Player Hook:
     - The mysterious captain who saves the party is part of this faction. 
+
+- Have a lose code of law: [[The Code of the Tides]]
