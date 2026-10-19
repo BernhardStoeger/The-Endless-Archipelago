@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ship/Captain Elias Veyne.md",
+                "file": "NPCs/Captain Elias Veyne/Captain Elias Veyne.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,8 +226,13 @@
   },
   "active": "8621a06abfacf6ef",
   "lastOpenFiles": [
-    "NPCs/Ship/Captain Elias Veyne Background Clues.md",
-    "NPCs/Ship/Captain Elias Veyne.md",
+    "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory.md",
+    "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory Clues.md",
+    "NPCs/Captain Elias Veyne/Captain Elias Veyne.md",
+    "Factions/Test Faction/Captain Elia Veyne/Backstory.md",
+    "Factions/Test Faction/Captain Elia Veyne",
+    "Factions/Test Faction",
+    "Factions/Test Faction/Captain Elia Veyne/Backstory",
     "Sessions/First Session.md",
     "NPCs/Ideas/Orchester Ship.md",
     "Test Notes/Test Note.md",
@@ -252,10 +257,7 @@
     "Prompts/Factions.md",
     "Factions/Infos",
     "Prompts/NPCs/Untitled.md",
-    "NPCs/Ship",
-    "NPCs",
-    "Factions/Factions",
-    "Factions",
+    "NPCs/Captain Elias Veyne",
     "Welcome.md"
   ]
 }
