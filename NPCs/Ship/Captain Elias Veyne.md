@@ -4,6 +4,8 @@
 
 #### Class: Ex-Intelligence Agent (formerly with the Iron Fleet) / Now Pirate (Free Captains)
 
+Captain Elias Veyne, once a high-ranking officer in the Iron Fleet, now sails as a Free Captain, forever bound to his ship _The Marrow’s Grace_. His story is a tale of sacrifice, betrayal, and the search for redemption.
+
 #### Appearance:
 
 - A weather-beaten man in his late 30s with sea-green eyes and silver-streaked dark hair, always braided with small shells and corals.
@@ -19,24 +21,91 @@
 
 #### Backstory:
 
-Elias was once a high-ranking Intelligence Officer for the Iron Fleet, tasked with rooting out pirate networks. He infiltrated the Free Sails undercover, earning their trust—until he discovered the Iron Fleet was sabotaging ships to drown prisoners (a cover for the Cult’s rituals). When he tried to expose them, his superior ordered his execution.
+##### **Early Days in the Iron Fleet**
 
-- After almost drowning he was saved by a the [[The Tideborn Monks]] and now hunts the Iron Fleet’s corruption from the shadows.
-- He won’t fight because his limp makes him slow in combat, and he relies on stealth, strategy, and allies.
-- His guilt over his past actions (he once ordered the execution of innocents) drives him to protect the weak.
+Elias joined the Iron Fleet as an idealistic officer, aiming to root out corruption and protect the seas. His investigations uncovered a horrifying truth: the Iron Fleet was secretly collaborating with the Drowned God’s Cult. When he attempted to expose these atrocities, he was met with threats and isolation from his superiors.
+
+##### **Discovery of the Ritual**
+
+Elias learned of a massive sacrifice ritual planned by the Drowned God’s Cult, targeting his own crew. Despite his warnings, his crew dismissed his concerns, believing him to be paranoid. The night of the ritual, a divine entity intervened, halting the sacrifice but binding Elias to _The Marrow’s Grace_, merging his body and soul with the ship.
+
+##### **The Crew’s Reaction and Final Confrontation**
+
+After Elias’s transformation, his crew initially distanced themselves from him. They saw his bond with the ship as a curse and feared he was being consumed by something unnatural.
+
+- **Their breaking point came during a confrontation with Cultists.** Elias’s crew insisted on confronting the Cultists directly despite his warnings.
+- Elias was **separated from the ship** during the battle and became weakened, leaving him vulnerable.
+- Witnessing his **physical and mental deterioration**, the crew realized too late the danger of his curse.
+- The encounter left them **haunted and guilt-ridden**, and they decided to abandon him, believing his curse had made him a liability.
+
+They left a **single logbook entry** behind, stating they were doing what they thought was best for everyone’s survival.
+
+### [[Captain Elias Veyne Background Clues]]
+
+##### **Elias’s Exile and Search for a New Crew**
+
+Left alone, Elias struggled to maintain _The Marrow’s Grace_. His guilt over his crew’s departure, combined with his physical bond to the ship, left him desperate for a new family. He turned to the Free Captains, seeking a crew who would understand his curse and help him navigate his new reality.
+
+---
+#### **Why He Can’t Leave the Ship**
+
+Elias is bound to _The Marrow’s Grace_ by a divine entity. If he strays too far, he grows weaker, his movements slow, and he risks collapsing. This bond is both a curse and a source of strength, as the ship reacts to his emotions.
+
+---
+
+#### **Goals**
+
+- Rebuild his crew and find a new family.
+- Protect his new crew from the threats of the Iron Fleet and the Cult.
+- Uncover the truth behind the divine entity’s intervention.
+- Navigate the complexities of the Free Captains and build meaningful alliances.
+
+---
+
+#### **Connections and Alliances**
+
+- **Tideborn Monks**: Provide guidance and minor magical assistance.
+- **Sympathizers in the Iron Fleet**: Secretly provide intelligence on Cult plots.
+- **Free Captains**: Seek out those willing to help him find purpose.
+
+---
+
+#### **Structure**
+
+- **Leaders**: Elias Veyne
+- **Members**: The players (new crew)
+- **Alliances**: Tideborn Monks, sympathizers from the Iron Fleet, and other respected Free Captains
+- **Rivals**: The Drowned God’s Cult and secret factions within the Iron Fleet
+
+---
+
+#### **Resources**
+
+- **The Marrow’s Grace**: A well-equipped brigantine.
+- **Connections**: Intelligence from Iron Fleet sympathizers.
+- **Ship’s Sentience**: Reacts to Elias’s emotions and physical state.
+
+---
+
+#### **Locations**
+
+- **Primary**: _The Marrow’s Grace_, a mobile sanctuary.
+- **Secondary**: Safe havens among Free Captains and Tideborn Monk sanctuaries.
+
+---
+
+#### **Notes**
+
+- Elias’s bond with the ship is central to his character, symbolizing both his strength and struggle.
+- The departure of his original crew is a source of deep guilt and loneliness.
+- The divine entity’s role remains mysterious.
+- Elias’s search for redemption and understanding invites players to help him find purpose and belonging.
 
 #### Personality:
 
 - Charismatic but haunted. He tells stories of his past to bond with the crew but never glamorizes it.
 - Strategic. Prefers hit-and-run tactics, ambushes, and outsmarting enemies.
 - Protective. Will lie or bargain to keep the crew safe, even if it means breaking the Code of the Tides.
-
-#### Why He Won’t Fight:
-
-1. Physical Limitation: His limp makes him vulnerable in melee. He’s a master of navigational traps, sabotage, and tactical retreat.
-2. Psychological: He refuses to be a weapon—his past as an enforcer disgusts him.
-3. Moral: He believes true power is in unity, not brute force. He’d rather win by inspiring the crew than fighting himself.
-4. Superstition: He thinks the Drowned God’s Cult targets those who spill blood unnecessarily.
 
 #### Skills & Abilities:
 
