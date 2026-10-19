@@ -224,8 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8621a06abfacf6ef",
+  "active": "a265516c6169d981",
   "lastOpenFiles": [
+    "sync workspace.bat",
+    "dinfa.bat",
+    "test.bat.txt",
+    "New Text Document.txt",
+    "sync workspace.bat.txt",
+    "sync workspace.cmd.txt",
     "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory.md",
     "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory Clues.md",
     "NPCs/Captain Elias Veyne/Captain Elias Veyne.md",
@@ -251,13 +257,8 @@
     "Factions/The Tideborn Monks.md",
     "Factions/The Pirate King's Red Legion.md",
     "World",
-    "Sessions",
-    "New Text Document.txt",
-    "NPCs/Ideas",
     "Prompts/Factions.md",
-    "Factions/Infos",
     "Prompts/NPCs/Untitled.md",
-    "NPCs/Captain Elias Veyne",
     "Welcome.md"
   ]
 }
