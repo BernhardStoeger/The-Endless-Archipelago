@@ -9,7 +9,7 @@
 
     - Methods: They use large ships to patrol the waters and maintain order. Their soldiers are well-trained, heavily armored, and armed with standard weapons.
 
-    - Corruption: While they claim to enforce justice, their heavy-handed tactics often lead to cruelty. Some islands pay tribute under threat, and the Iron Fleet’s Black Brigades (elite enforcers) are known for torturing dissenters.
+    - Corruption: While they claim to enforce justice, their heavy-handed tactics also lead to cruelty. Some islands pay tribute under threat, and the Iron Fleet’s Black Brigades (elite enforcers) are known for torturing dissenters. But not all members are like this a lot of member are upright and fight against the corruption.
 
     - Weakness: Their bureaucracy is slow to respond to local disputes, and their rule is resented by many. They also rely on proprietary navigation charts, which only they possess, making travel to remote islands difficult without their help.
 

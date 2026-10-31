@@ -10,10 +10,8 @@ Elias learned of a massive sacrifice ritual planned by the Drowned God’s Cult,
 
 After Elias’s transformation, his crew initially distanced themselves from him. They saw his bond with the ship as a curse and feared he was being consumed by something unnatural.
 
-- **Their breaking point came during a confrontation with Cultists.** Elias’s crew insisted on confronting the Cultists directly despite his warnings.
-- Elias was **separated from the ship** during the battle and became weakened, leaving him vulnerable.
-- Witnessing his **physical and mental deterioration**, the crew realized too late the danger of his curse.
-- The encounter left them **haunted and guilt-ridden**, and they decided to abandon him, believing his curse had made him a liability.
+- Witnessing his **physical and mental deterioration**, the crew realized the danger of his curse.
+- Later they started to regret this decision  but are to ashamed to go back to him.
 
 They left a **single logbook entry** behind, stating they were doing what they thought was best for everyone’s survival.
 
@@ -22,3 +20,5 @@ They left a **single logbook entry** behind, stating they were doing what they t
 Left alone, Elias struggled to maintain _The Marrow’s Grace_. His guilt over his crew’s departure, combined with his physical bond to the ship, left him desperate for a new family. He turned to the Free Captains, seeking a crew who would understand his curse and help him navigate his new reality.
 
 ### [[Captain Elias Veyne Backstory Clues]]
+
+### [[Captain Elias Veyne Old Crew]]
