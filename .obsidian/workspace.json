@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sessions/First Session/First Session.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -210,21 +210,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a161b41ff9cae750",
+  "active": "a265516c6169d981",
   "lastOpenFiles": [
+    "Pictures/Captain Elias Veyne.webp",
+    "Pictures",
+    "NPCs/Captain Elias Veyne/Captain Elias Veyne.md",
+    "NPCs/Captain Elias Old Crew/Captain Elias Veyne Old Crew.md",
+    "NPCs/Captain Elias Old Crew/Aris Thorne.md",
+    "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory.md",
+    "Sessions/First Session/First Session.md",
     "README.md",
     "World/World.md",
-    "NPCs/Captain Elias Veyne/Captain Elias Veyne.md",
-    "Sessions/First Session/First Session.md",
     "NPCs/Ideas/Orchester Ship.md",
     "Custom Statblocks/Iron Fleet/Lieutenant Rourke Steel.md",
     "Custom Statblocks/Iron Fleet",
     "Custom Statblocks",
     "Sessions/First Session",
     "Factions/The Iron Fleet.md",
-    "NPCs/Captain Elias Old Crew/Aris Thorne.md",
-    "NPCs/Captain Elias Old Crew/Captain Elias Veyne Old Crew.md",
-    "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory.md",
     "NPCs/Captain Elias Veyne/Captain Elias Veyne Backstory Clues.md",
     "NPCs/Captain Elias Old Crew",
     "sync campaign.bat",
@@ -232,7 +234,6 @@
     "sync workspace - Copy.bat",
     "autosync workspace.bat",
     "autosync workspac.bat",
-    "NPCs/High Sea Encounters",
     "NPCs/Untitled.md",
     "NPCs/High Sea Encounters.md",
     "Factions/Test Faction/Captain Elia Veyne/Backstory.md",
@@ -248,7 +249,6 @@
     "Factions/The Tideborn Monks.md",
     "Factions/The Pirate King's Red Legion.md",
     "Prompts/Factions.md",
-    "Prompts/NPCs/Untitled.md",
-    "Welcome.md"
+    "Prompts/NPCs/Untitled.md"
   ]
 }
